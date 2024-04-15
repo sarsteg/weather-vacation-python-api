@@ -14,6 +14,11 @@ For this section, I created a Python script named `WeatherPy.ipynb`. I utilized 
 - Creating scatter plots to visualize relationships between weather variables and latitude, including temperature, humidity, cloudiness, and wind speed.
 - Computing linear regression for each relationship and separating plots into Northern and Southern Hemispheres.
 
+![Max Temp](https://github.com/sarsteg/weather-vacation-python-api/blob/main/output_data/Fig1.png)
+![Humidity](https://github.com/sarsteg/weather-vacation-python-api/blob/main/output_data/Fig2.png)
+![Cloudiness](https://github.com/sarsteg/weather-vacation-python-api/blob/main/output_data/Fig3.png)
+![Wind Speed](https://github.com/sarsteg/weather-vacation-python-api/blob/main/output_data/Fig4.png)
+
 ### Part 2: VacationPy
 
 In this section, I planned future vacations based on weather data collected in Part 1. I used Jupyter notebooks, the GeoViews Python library, and the Geoapify API to create map visualizations.
@@ -23,5 +28,7 @@ In this section, I planned future vacations based on weather data collected in P
 - Filtering cities based on desired weather conditions (e.g., temperature, wind speed, cloudiness).
 - Using the Geoapify API to find nearby hotels for each city.
 - Adding hotel names and countries as additional information in the hover message for each city on the map.
+
+![Map](https://github.com/sarsteg/weather-vacation-python-api/blob/main/output_data/hotels.png)
 
 The assignment encouraged critical thinking and offered hints and considerations for optimizing the code, such as understanding API usage, testing libraries, and addressing bias in city selection. Overall, completing this task demonstrated a strong understanding of data analytics foundations and provided valuable hands-on experience with Python, APIs, and data visualization.
