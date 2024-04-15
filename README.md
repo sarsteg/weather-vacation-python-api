@@ -6,7 +6,7 @@ The assignment aimed to answer the question, *"What is the weather like as we ap
 
 ### Part 1: WeatherPy
 
-For this section, the student created a Python script named `WeatherPy.ipynb`. They utilized the `citipy` library, the OpenWeatherMap API, and their Python skills to analyze weather data from over 500 cities at varying distances from the equator.
+For this section, I created a Python script named `WeatherPy.ipynb`. I utilized the `citipy` library, the OpenWeatherMap API, and my Python skills to analyze weather data from over 500 cities at varying distances from the equator.
 
 **Key features included:**
 - Generating random geographic coordinates and finding the nearest city to each coordinate.
@@ -16,7 +16,7 @@ For this section, the student created a Python script named `WeatherPy.ipynb`. T
 
 ### Part 2: VacationPy
 
-In this section, the student planned future vacations based on weather data collected in Part 1. They used Jupyter notebooks, the GeoViews Python library, and the Geoapify API to create map visualizations.
+In this section, I planned future vacations based on weather data collected in Part 1. I used Jupyter notebooks, the GeoViews Python library, and the Geoapify API to create map visualizations.
 
 **Key features included:**
 - Displaying a point for every city in the DataFrame, with point size indicating humidity.
@@ -24,6 +24,4 @@ In this section, the student planned future vacations based on weather data coll
 - Using the Geoapify API to find nearby hotels for each city.
 - Adding hotel names and countries as additional information in the hover message for each city on the map.
 
-The assignment encouraged critical thinking and offered hints and considerations for optimizing the code, such as understanding API usage, testing libraries, and addressing bias in city selection.
-
-Overall, completing this task demonstrated a strong understanding of data analytics foundations and provided valuable hands-on experience with Python, APIs, and data visualization.
+The assignment encouraged critical thinking and offered hints and considerations for optimizing the code, such as understanding API usage, testing libraries, and addressing bias in city selection. Overall, completing this task demonstrated a strong understanding of data analytics foundations and provided valuable hands-on experience with Python, APIs, and data visualization.
